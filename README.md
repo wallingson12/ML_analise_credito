@@ -60,8 +60,6 @@ Desenvolver e comparar modelos de machine learning para prever a aprovação ou 
 
 - Comparação de desempenho entre os modelos
 - Entendimento de quais variáveis mais influenciam a decisão de crédito
-- Registro e reprodutibilidade com MLflow
-
 ---
 
 ## 🚀 Como Executar
