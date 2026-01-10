@@ -54,8 +54,6 @@ Desenvolver e comparar modelos de machine learning para prever a aprovação ou 
 - scikit-learn
 - matplotlib
 - shap
-- mlflow
-
 ---
 
 ## 📊 Resultados Esperados
