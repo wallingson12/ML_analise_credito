@@ -1,7 +1,6 @@
 # 💳 Análise de Crédito com Machine Learning
 
-Este repositório contém um projeto de **classificação de risco de crédito** usando diferentes algoritmos de machine learning. Também são utilizados recursos de interpretabilidade com **SHAP** e rastreamento de experimentos com **MLflow**.
-
+Este repositório contém um projeto de **classificação de risco de crédito** usando diferentes algoritmos de machine learning. Também são utilizados recursos de interpretabilidade com **SHAP**
 ---
 
 ## 🎯 Objetivo
