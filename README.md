@@ -40,10 +40,6 @@ Desenvolver e comparar modelos de machine learning para prever a aprovação ou 
 
 3. **Interpretação com SHAP**
    - Análise da importância das variáveis para cada modelo
-
-4. **Rastreamento com MLflow**
-   - Registro de métricas e versões de modelos
-
 ---
 
 ## 🧠 Tecnologias e Bibliotecas
